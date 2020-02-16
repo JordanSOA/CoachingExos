@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7160566-2fa5-4efc-9540-ffb028d58208" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ResistorColorTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ResistorColorTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DnDCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DnDCharacter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -80,63 +62,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DnDCharacterTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Hamming.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1165">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#580#581#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#848#849#0" expanded="true" />
-                <element signature="e#906#907#0" expanded="true" />
-                <element signature="e#1011#1012#0" expanded="true" />
-                <element signature="e#1069#1070#0" expanded="true" />
-                <element signature="e#1174#1175#0" expanded="true" />
-                <element signature="e#1232#1233#0" expanded="true" />
-                <element signature="e#1330#1331#0" expanded="true" />
-                <element signature="e#1388#1389#0" expanded="true" />
-                <element signature="e#1486#1487#0" expanded="true" />
-                <element signature="e#1544#1545#0" expanded="true" />
-                <element signature="e#1642#1643#0" expanded="true" />
-                <element signature="e#1700#1701#0" expanded="true" />
-                <element signature="e#1798#1799#0" expanded="true" />
-                <element signature="e#1856#1857#0" expanded="true" />
-                <element signature="e#1954#1955#0" expanded="true" />
-                <element signature="e#2012#2013#0" expanded="true" />
-                <element signature="e#2110#2111#0" expanded="true" />
-                <element signature="e#2168#2169#0" expanded="true" />
-                <element signature="e#2266#2267#0" expanded="true" />
-                <element signature="e#2324#2325#0" expanded="true" />
-                <element signature="e#2422#2423#0" expanded="true" />
-                <element signature="e#2480#2481#0" expanded="true" />
-                <element signature="e#2578#2579#0" expanded="true" />
-                <element signature="e#2636#2637#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DnDCharacter.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HammingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-833">
-              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="833">
+              <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#829#830#0" expanded="true" />
-                <element signature="e#860#861#0" expanded="true" />
-                <element signature="e#3237#3238#0" expanded="true" />
-                <element signature="e#3299#3300#0" expanded="true" />
-                <element signature="e#2983#2984#0" expanded="true" />
-                <element signature="e#3060#3061#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -166,6 +109,8 @@
         <option value="$PROJECT_DIR$/src/main/java/ResistorColor.java" />
         <option value="$PROJECT_DIR$/src/test/java/DnDCharacterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/DnDCharacter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HammingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Hamming.java" />
       </list>
     </option>
   </component>
@@ -244,9 +189,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.DnDCharacterTest">
+  <component name="RunManager" selected="Gradle.HammingTest">
     <configuration name="DnDCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DnDCharacter" />
+      <module name="exercices.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hamming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hamming" />
       <module name="exercices.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -272,12 +224,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="HammingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce&quot;" />
+        <option name="scriptParameters" value="--tests &quot;HammingTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -292,32 +244,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="DnDCharacterTest.testRandomAbilityIsWithinRange" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="HammingTest.testDisallowLeftEmptyStrand" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;DnDCharacterTest.testRandomAbilityIsWithinRange&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="DnDCharacterTest.testRandomCharacterIsValid" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;DnDCharacterTest.testRandomCharacterIsValid&quot;" />
+        <option name="scriptParameters" value="--tests &quot;HammingTest.testDisallowLeftEmptyStrand&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -334,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.HammingTest" />
+        <item itemvalue="Gradle.HammingTest.testDisallowLeftEmptyStrand" />
+        <item itemvalue="Application.Hamming" />
         <item itemvalue="Gradle.DnDCharacterTest" />
         <item itemvalue="Application.DnDCharacter" />
-        <item itemvalue="Gradle.DnDCharacterTest.testRandomAbilityIsWithinRange" />
-        <item itemvalue="Gradle.DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce" />
-        <item itemvalue="Gradle.DnDCharacterTest.testRandomCharacterIsValid" />
       </list>
     </recent_temporary>
   </component>
@@ -356,35 +288,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DnDCharacterTest_testAbilityModifierForScore4IsNegative3 - 2020.02.16 at 18h 34m 24s.xml">
-      <configuration name="DnDCharacterTest.testAbilityModifierForScore4IsNegative3" configurationId="GradleRunConfiguration" />
+    <history-entry file="HammingTest - 2020.02.16 at 19h 49m 50s.xml">
+      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="DnDCharacterTest - 2020.02.16 at 18h 35m 16s.xml">
-      <configuration name="DnDCharacterTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="HammingTest - 2020.02.16 at 19h 50m 07s.xml">
+      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="DnDCharacterTest - 2020.02.16 at 18h 36m 20s.xml">
-      <configuration name="DnDCharacterTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="HammingTest - 2020.02.16 at 19h 50m 58s.xml">
+      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="DnDCharacterTest_testRandomCharacterIsValid - 2020.02.16 at 18h 38m 37s.xml">
-      <configuration name="DnDCharacterTest.testRandomCharacterIsValid" configurationId="GradleRunConfiguration" />
+    <history-entry file="HammingTest - 2020.02.16 at 19h 52m 54s.xml">
+      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="DnDCharacterTest_testEachAbilityIsOnlyCalculatedOnce - 2020.02.16 at 18h 39m 00s.xml">
-      <configuration name="DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce" configurationId="GradleRunConfiguration" />
+    <history-entry file="HammingTest - 2020.02.16 at 19h 53m 59s.xml">
+      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="DnDCharacterTest_testRandomAbilityIsWithinRange - 2020.02.16 at 18h 40m 40s.xml">
-      <configuration name="DnDCharacterTest.testRandomAbilityIsWithinRange" configurationId="GradleRunConfiguration" />
+    <history-entry file="HammingTest - 2020.02.16 at 20h 04m 37s.xml">
+      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="DnDCharacterTest - 2020.02.16 at 18h 40m 53s.xml">
-      <configuration name="DnDCharacterTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="HammingTest_testDisallowLeftEmptyStrand - 2020.02.16 at 20h 05m 58s.xml">
+      <configuration name="HammingTest.testDisallowLeftEmptyStrand" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="DnDCharacterTest - 2020.02.16 at 18h 49m 40s.xml">
-      <configuration name="DnDCharacterTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="HammingTest_testDisallowLeftEmptyStrand - 2020.02.16 at 20h 09m 31s.xml">
+      <configuration name="HammingTest.testDisallowLeftEmptyStrand" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="DnDCharacterTest - 2020.02.16 at 18h 50m 04s.xml">
-      <configuration name="DnDCharacterTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="HammingTest - 2020.02.16 at 20h 09m 40s.xml">
+      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="DnDCharacterTest - 2020.02.16 at 18h 50m 26s.xml">
-      <configuration name="DnDCharacterTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="HammingTest - 2020.02.16 at 20h 10m 07s.xml">
+      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -523,25 +455,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DnDCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-833">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#3237#3238#0" expanded="true" />
-            <element signature="e#3299#3300#0" expanded="true" />
-            <element signature="e#2983#2984#0" expanded="true" />
-            <element signature="e#3060#3061#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DnDCharacterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1165">
+        <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -577,6 +493,39 @@
             <element signature="e#2480#2481#0" expanded="true" />
             <element signature="e#2578#2579#0" expanded="true" />
             <element signature="e#2636#2637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DnDCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="109" column="35" lean-forward="true" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#2876#2877#0" expanded="true" />
+            <element signature="e#2953#2954#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HammingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
           </folding>
         </state>
       </provider>

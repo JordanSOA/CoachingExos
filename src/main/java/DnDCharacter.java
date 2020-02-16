@@ -100,9 +100,6 @@ public class DnDCharacter {
         }
         return constModif;
     }
-    public static void main(String[] args) {
-        DnDCharacter dnDCharacter = new DnDCharacter();
-    }
 
     public int getHitpoints() {
         hitpoints = 10 + this.modifier(this.constitution);
