@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7160566-2fa5-4efc-9540-ffb028d58208" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/DnDCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DnDCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -65,21 +65,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Hamming.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HammingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-410">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/HammingTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Gigasecond.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/GigasecondTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,6 +137,8 @@
         <option value="$PROJECT_DIR$/src/main/java/DnDCharacter.java" />
         <option value="$PROJECT_DIR$/src/test/java/HammingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Hamming.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GigasecondTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Gigasecond.java" />
       </list>
     </option>
   </component>
@@ -127,6 +155,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,8 +186,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,14 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.HammingTest">
-    <configuration name="DnDCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DnDCharacter" />
-      <module name="exercices.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Gradle.GigasecondTest">
     <configuration name="Hamming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hamming" />
       <module name="exercices.main" />
@@ -204,12 +225,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DnDCharacterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="GigasecondTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;DnDCharacterTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;GigasecondTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GigasecondTest.beforeEpochTime" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;GigasecondTest.beforeEpochTime&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -266,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.GigasecondTest" />
+        <item itemvalue="Gradle.GigasecondTest.beforeEpochTime" />
         <item itemvalue="Gradle.HammingTest" />
         <item itemvalue="Gradle.HammingTest.testDisallowLeftEmptyStrand" />
         <item itemvalue="Application.Hamming" />
-        <item itemvalue="Gradle.DnDCharacterTest" />
-        <item itemvalue="Application.DnDCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -288,42 +329,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HammingTest - 2020.02.16 at 19h 49m 50s.xml">
-      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="HammingTest - 2020.02.16 at 19h 50m 07s.xml">
-      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="HammingTest - 2020.02.16 at 19h 50m 58s.xml">
-      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="HammingTest - 2020.02.16 at 19h 52m 54s.xml">
-      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="HammingTest - 2020.02.16 at 19h 53m 59s.xml">
-      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="HammingTest - 2020.02.16 at 20h 04m 37s.xml">
-      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="HammingTest_testDisallowLeftEmptyStrand - 2020.02.16 at 20h 05m 58s.xml">
-      <configuration name="HammingTest.testDisallowLeftEmptyStrand" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="HammingTest_testDisallowLeftEmptyStrand - 2020.02.16 at 20h 09m 31s.xml">
-      <configuration name="HammingTest.testDisallowLeftEmptyStrand" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="HammingTest - 2020.02.16 at 20h 09m 40s.xml">
-      <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="HammingTest - 2020.02.16 at 20h 10m 07s.xml">
       <configuration name="HammingTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GigasecondTest - 2020.02.18 at 18h 12m 13s.xml">
+      <configuration name="GigasecondTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GigasecondTest - 2020.02.18 at 18h 12m 27s.xml">
+      <configuration name="GigasecondTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GigasecondTest - 2020.02.18 at 18h 13m 27s.xml">
+      <configuration name="GigasecondTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GigasecondTest - 2020.02.18 at 18h 14m 11s.xml">
+      <configuration name="GigasecondTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GigasecondTest - 2020.02.18 at 18h 16m 55s.xml">
+      <configuration name="GigasecondTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GigasecondTest - 2020.02.18 at 18h 21m 34s.xml">
+      <configuration name="GigasecondTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GigasecondTest - 2020.02.18 at 18h 21m 47s.xml">
+      <configuration name="GigasecondTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GigasecondTest_beforeEpochTime - 2020.02.18 at 18h 21m 59s.xml">
+      <configuration name="GigasecondTest.beforeEpochTime" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GigasecondTest - 2020.02.18 at 18h 22m 13s.xml">
+      <configuration name="GigasecondTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -513,19 +554,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Hamming.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HammingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+        <state relative-caret-position="-410">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GigasecondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Gigasecond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
           </folding>
         </state>
       </provider>
