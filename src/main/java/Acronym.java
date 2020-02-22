@@ -16,13 +16,13 @@ public class Acronym {
     String get() {
         Pattern pat = Pattern.compile("'[a-zA-Z]|\\W|_");
         String[] splitPhrase = pat.split(this.phrase, this.phrase.length());
-        String acronymRes = "";
+        StringBuilder stringBuilder = new StringBuilder();
         for (int i = 0; i < splitPhrase.length; i++) {
             if (!splitPhrase[i].isEmpty()){
                 char firstLetter = splitPhrase[i].charAt(0);
-                acronymRes += firstLetter;
+                stringBuilder.append(firstLetter);
             }
         }
-        return acronymRes.toUpperCase();
+        return stringBuilder.toString().toUpperCase();
     }
 }
