@@ -63,41 +63,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SpaceAge.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Scrabble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+            <state relative-caret-position="255">
+              <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
               <folding>
-                <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#604#605#0" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#660#661#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SpaceAgeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ScrabbleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,6 +96,11 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@Ignore(&quot;Remove to run test&quot;)</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -135,6 +122,10 @@
         <option value="$PROJECT_DIR$/src/main/java/Gigasecond.java" />
         <option value="$PROJECT_DIR$/src/test/java/SpaceAgeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/SpaceAge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ScrabbleScore.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ScrabbleScoreTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ScrabbleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Scrabble.java" />
       </list>
     </option>
   </component>
@@ -178,6 +169,19 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="exercices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoachingExos" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoachingExos" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -213,53 +217,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.SpaceAgeTest">
-    <configuration name="GigasecondTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;GigasecondTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+  <component name="RunManager" selected="Application.Scrabble">
+    <configuration name="Scrabble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scrabble" />
+      <module name="exercices.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="GigasecondTest.beforeEpochTime" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ScrabbleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;GigasecondTest.beforeEpochTime&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="HammingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;HammingTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;ScrabbleTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -314,13 +285,33 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="SpaceAgeTest.ageOnMercury" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SpaceAgeTest.ageOnMercury&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scrabble" />
+        <item itemvalue="Gradle.ScrabbleTest" />
         <item itemvalue="Gradle.SpaceAgeTest" />
+        <item itemvalue="Gradle.SpaceAgeTest.ageOnMercury" />
         <item itemvalue="Gradle.SpaceAgeTest.ageOnEarth" />
-        <item itemvalue="Gradle.GigasecondTest" />
-        <item itemvalue="Gradle.GigasecondTest.beforeEpochTime" />
-        <item itemvalue="Gradle.HammingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -338,42 +329,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SpaceAgeTest - 2020.02.22 at 14h 23m 23s.xml">
+    <history-entry file="SpaceAgeTest_ageOnMercury - 2020.02.22 at 14h 53m 59s.xml">
+      <configuration name="SpaceAgeTest.ageOnMercury" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="SpaceAgeTest_ageOnMercury - 2020.02.22 at 14h 54m 46s.xml">
+      <configuration name="SpaceAgeTest.ageOnMercury" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="SpaceAgeTest - 2020.02.22 at 15h 00m 24s.xml">
       <configuration name="SpaceAgeTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpaceAgeTest_ageOnEarth - 2020.02.22 at 14h 25m 12s.xml">
-      <configuration name="SpaceAgeTest.ageOnEarth" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="SpaceAgeTest_ageOnEarth - 2020.02.22 at 14h 25m 13s.xml">
-      <configuration name="SpaceAgeTest.ageOnEarth" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="SpaceAgeTest - 2020.02.22 at 14h 31m 03s.xml">
+    <history-entry file="SpaceAgeTest - 2020.02.22 at 15h 01m 13s.xml">
       <configuration name="SpaceAgeTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpaceAgeTest - 2020.02.22 at 14h 31m 38s.xml">
+    <history-entry file="SpaceAgeTest - 2020.02.22 at 15h 01m 14s.xml">
       <configuration name="SpaceAgeTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpaceAgeTest - 2020.02.22 at 14h 31m 56s.xml">
+    <history-entry file="SpaceAgeTest - 2020.02.22 at 15h 01m 24s.xml">
       <configuration name="SpaceAgeTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpaceAgeTest - 2020.02.22 at 14h 37m 07s.xml">
-      <configuration name="SpaceAgeTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ScrabbleTest - 2020.02.22 at 15h 12m 17s.xml">
+      <configuration name="ScrabbleTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpaceAgeTest - 2020.02.22 at 14h 38m 41s.xml">
-      <configuration name="SpaceAgeTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ScrabbleTest - 2020.02.22 at 15h 54m 05s.xml">
+      <configuration name="ScrabbleTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpaceAgeTest - 2020.02.22 at 14h 38m 56s.xml">
-      <configuration name="SpaceAgeTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ScrabbleTest - 2020.02.22 at 15h 55m 30s.xml">
+      <configuration name="ScrabbleTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SpaceAgeTest - 2020.02.22 at 14h 39m 42s.xml">
-      <configuration name="SpaceAgeTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ScrabbleTest - 2020.02.22 at 15h 55m 51s.xml">
+      <configuration name="ScrabbleTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26285347" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26285347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -387,7 +378,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32974428" />
@@ -402,7 +393,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26285347" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26285347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -498,13 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ResistorColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DnDCharacterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -561,13 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hamming.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HammingTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -597,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SpaceAgeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="867">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -607,8 +584,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SpaceAge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+        <state relative-caret-position="306">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding>
             <element signature="e#84#85#0" expanded="true" />
             <element signature="e#103#104#0" expanded="true" />
@@ -618,7 +595,6 @@
             <element signature="e#738#739#0" expanded="true" />
             <element signature="e#382#383#0" expanded="true" />
             <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
             <element signature="e#461#462#0" expanded="true" />
             <element signature="e#491#492#0" expanded="true" />
             <element signature="e#515#516#0" expanded="true" />
@@ -630,6 +606,58 @@
             <element signature="e#684#685#0" expanded="true" />
             <element signature="e#717#718#0" expanded="true" />
             <element signature="e#741#742#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ScrabbleScoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ScrabbleScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ResistorColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ScrabbleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Scrabble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
           </folding>
         </state>
       </provider>
