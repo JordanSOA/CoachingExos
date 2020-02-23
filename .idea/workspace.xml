@@ -2,24 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7160566-2fa5-4efc-9540-ffb028d58208" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Acronym.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Acronym.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/AcronymTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-AcronymTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Acronym.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Acronym.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/PangramCheckerTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-PangramCheckerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PangramCheckerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PangramCheckerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -29,6 +23,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
@@ -80,34 +77,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PangramChecker.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProteinTranslator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            <state relative-caret-position="187">
+              <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#160#182#0" expanded="true" />
+                <element signature="e#311#319#0" expanded="true" />
+                <element signature="e#414#422#0" expanded="true" />
+                <element signature="e#540#548#0" expanded="true" />
+                <element signature="e#664#672#0" expanded="true" />
+                <element signature="e#843#851#0" expanded="true" />
+                <element signature="e#964#972#0" expanded="true" />
+                <element signature="e#1083#1091#0" expanded="true" />
+                <element signature="e#1178#1186#0" expanded="true" />
+                <element signature="e#1677#1685#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PangramCheckerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ProteinTranslatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="2159">
+              <caret line="130" selection-start-line="130" selection-end-line="130" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Scrabble.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -138,7 +137,6 @@
         <option value="$PROJECT_DIR$/src/test/java/LeapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Leap.java" />
         <option value="$PROJECT_DIR$/src/test/java/ResistorColorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ResistorColor.java" />
         <option value="$PROJECT_DIR$/src/test/java/DnDCharacterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/DnDCharacter.java" />
         <option value="$PROJECT_DIR$/src/test/java/HammingTest.java" />
@@ -155,6 +153,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Acronym.java" />
         <option value="$PROJECT_DIR$/src/main/java/PangramChecker.java" />
         <option value="$PROJECT_DIR$/src/test/java/PangramCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ResistorColor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ProteinTranslatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProteinTranslator.java" />
       </list>
     </option>
   </component>
@@ -247,7 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.PangramCheckerTest">
+  <component name="RunManager" selected="Gradle.ProteinTranslatorTest">
     <configuration name="PangramChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PangramChecker" />
       <module name="exercices.main" />
@@ -255,25 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AcronymTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;AcronymTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="ProteinTranslator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProteinTranslator" />
+      <module name="exercices.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="PangramCheckerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -295,12 +283,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PangramCheckerTest.emptySentenceIsNotPangram" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ProteinTranslatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;PangramCheckerTest.emptySentenceIsNotPangram&quot;" />
+        <option name="scriptParameters" value="--tests &quot;ProteinTranslatorTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -315,12 +303,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PangramCheckerTest.perfectLowerCasePhraseIsPangram" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ProteinTranslatorTest.testTranslationStopsIfStopCodonAtBeginning" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;PangramCheckerTest.perfectLowerCasePhraseIsPangram&quot;" />
+        <option name="scriptParameters" value="--tests &quot;ProteinTranslatorTest.testTranslationStopsIfStopCodonAtBeginning&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -337,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ProteinTranslatorTest" />
+        <item itemvalue="Gradle.ProteinTranslatorTest.testTranslationStopsIfStopCodonAtBeginning" />
+        <item itemvalue="Application.ProteinTranslator" />
         <item itemvalue="Gradle.PangramCheckerTest" />
         <item itemvalue="Application.PangramChecker" />
-        <item itemvalue="Gradle.PangramCheckerTest.perfectLowerCasePhraseIsPangram" />
-        <item itemvalue="Gradle.PangramCheckerTest.emptySentenceIsNotPangram" />
-        <item itemvalue="Gradle.AcronymTest" />
       </list>
     </recent_temporary>
   </component>
@@ -359,35 +347,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AcronymTest - 2020.02.22 at 22h 21m 46s.xml">
-      <configuration name="AcronymTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 11h 18m 43s.xml">
+      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="AcronymTest - 2020.02.22 at 22h 22m 25s.xml">
-      <configuration name="AcronymTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 11h 19m 21s.xml">
+      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="AcronymTest - 2020.02.22 at 22h 23m 11s.xml">
-      <configuration name="AcronymTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 17h 29m 04s.xml">
+      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="AcronymTest - 2020.02.22 at 22h 24m 37s.xml">
-      <configuration name="AcronymTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 17h 30m 09s.xml">
+      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="AcronymTest - 2020.02.22 at 22h 26m 04s.xml">
-      <configuration name="AcronymTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 17h 36m 05s.xml">
+      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PangramCheckerTest_emptySentenceIsNotPangram - 2020.02.22 at 23h 10m 13s.xml">
-      <configuration name="PangramCheckerTest.emptySentenceIsNotPangram" configurationId="GradleRunConfiguration" />
+    <history-entry file="ProteinTranslatorTest_testTranslationStopsIfStopCodonAtBeginning - 2020.02.23 at 17h 38m 11s.xml">
+      <configuration name="ProteinTranslatorTest.testTranslationStopsIfStopCodonAtBeginning" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PangramCheckerTest_perfectLowerCasePhraseIsPangram - 2020.02.22 at 23h 10m 34s.xml">
-      <configuration name="PangramCheckerTest.perfectLowerCasePhraseIsPangram" configurationId="GradleRunConfiguration" />
+    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 18h 30m 11s.xml">
+      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PangramCheckerTest - 2020.02.23 at 11h 01m 57s.xml">
-      <configuration name="PangramCheckerTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 18h 31m 18s.xml">
+      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PangramCheckerTest - 2020.02.23 at 11h 03m 14s.xml">
-      <configuration name="PangramCheckerTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 18h 50m 27s.xml">
+      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PangramCheckerTest - 2020.02.23 at 11h 04m 08s.xml">
-      <configuration name="PangramCheckerTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 18h 51m 33s.xml">
+      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -402,7 +390,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -452,6 +440,45 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout-to-restore>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ProteinTranslator.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ProteinTranslator.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="res" />
+        <watch expression="proteinFound" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>split.length == 2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((HashMap.Node)stringListEntry).getKey()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.HashMap.Node</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -469,16 +496,6 @@
             <element signature="e#836#837#0" expanded="true" />
             <element signature="e#921#922#0" expanded="true" />
             <element signature="e#998#999#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -561,34 +578,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DnDCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="109" column="35" lean-forward="true" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#2876#2877#0" expanded="true" />
-            <element signature="e#2953#2954#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HammingTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Gigasecond.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -612,43 +605,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SpaceAge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ScrabbleScoreTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ScrabbleScore.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ResistorColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ScrabbleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -663,13 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Acronym.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -690,6 +641,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PangramCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="464" selection-start-line="464" selection-end-line="464" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3041" selection-start-line="3041" selection-end-line="3041" />
+          <folding>
+            <element signature="e#121653#121654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="896" selection-start-line="896" selection-end-line="896" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PangramChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Gigasecond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Acronym.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Scrabble.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -697,22 +719,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PangramCheckerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SpaceAge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="255">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PangramChecker.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DnDCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        <state relative-caret-position="306">
+          <caret line="109" column="35" lean-forward="true" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2834#2835#0" expanded="true" />
+            <element signature="e#2876#2877#0" expanded="true" />
+            <element signature="e#2904#2905#0" expanded="true" />
+            <element signature="e#2953#2954#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ResistorColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProteinTranslatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2159">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProteinTranslator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+          <folding>
+            <element signature="e#160#182#0" expanded="true" />
+            <element signature="e#311#319#0" expanded="true" />
+            <element signature="e#414#422#0" expanded="true" />
+            <element signature="e#540#548#0" expanded="true" />
+            <element signature="e#664#672#0" expanded="true" />
+            <element signature="e#843#851#0" expanded="true" />
+            <element signature="e#964#972#0" expanded="true" />
+            <element signature="e#1083#1091#0" expanded="true" />
+            <element signature="e#1178#1186#0" expanded="true" />
+            <element signature="e#1677#1685#0" expanded="true" />
           </folding>
         </state>
       </provider>
