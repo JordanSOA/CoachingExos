@@ -13,12 +13,13 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Scrabble.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Scrabble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ScrabbleTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Acronym.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Acronym.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/AcronymTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ScrabbleTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-AcronymTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Acronym.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Acronym.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -79,10 +80,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Acronym.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PangramChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="323">
+              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,13 +92,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/AcronymTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PangramCheckerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1079">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="833">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Scrabble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -143,6 +153,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Scrabble.java" />
         <option value="$PROJECT_DIR$/src/test/java/AcronymTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Acronym.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PangramChecker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PangramCheckerTest.java" />
       </list>
     </option>
   </component>
@@ -159,8 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,6 +213,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,16 +247,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.AcronymTest">
-    <configuration name="Acronym" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Acronym" />
-      <module name="exercices.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scrabble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scrabble" />
+  <component name="RunManager" selected="Gradle.PangramCheckerTest">
+    <configuration name="PangramChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PangramChecker" />
       <module name="exercices.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -270,12 +275,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="AcronymTest.apostrophes" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PangramCheckerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;AcronymTest.apostrophes&quot;" />
+        <option name="scriptParameters" value="--tests &quot;PangramCheckerTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -290,12 +295,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ScrabbleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PangramCheckerTest.emptySentenceIsNotPangram" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;ScrabbleTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;PangramCheckerTest.emptySentenceIsNotPangram&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PangramCheckerTest.perfectLowerCasePhraseIsPangram" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PangramCheckerTest.perfectLowerCasePhraseIsPangram&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -312,11 +337,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.PangramCheckerTest" />
+        <item itemvalue="Application.PangramChecker" />
+        <item itemvalue="Gradle.PangramCheckerTest.perfectLowerCasePhraseIsPangram" />
+        <item itemvalue="Gradle.PangramCheckerTest.emptySentenceIsNotPangram" />
         <item itemvalue="Gradle.AcronymTest" />
-        <item itemvalue="Gradle.AcronymTest.apostrophes" />
-        <item itemvalue="Application.Acronym" />
-        <item itemvalue="Gradle.ScrabbleTest" />
-        <item itemvalue="Application.Scrabble" />
       </list>
     </recent_temporary>
   </component>
@@ -334,41 +359,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ScrabbleTest - 2020.02.22 at 16h 05m 47s.xml">
-      <configuration name="ScrabbleTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="ScrabbleTest - 2020.02.22 at 16h 18m 36s.xml">
-      <configuration name="ScrabbleTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="AcronymTest - 2020.02.22 at 16h 29m 37s.xml">
+    <history-entry file="AcronymTest - 2020.02.22 at 22h 21m 46s.xml">
       <configuration name="AcronymTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="AcronymTest - 2020.02.22 at 17h 38m 41s.xml">
+    <history-entry file="AcronymTest - 2020.02.22 at 22h 22m 25s.xml">
       <configuration name="AcronymTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="AcronymTest - 2020.02.22 at 17h 39m 53s.xml">
+    <history-entry file="AcronymTest - 2020.02.22 at 22h 23m 11s.xml">
       <configuration name="AcronymTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="AcronymTest_apostrophes - 2020.02.22 at 17h 52m 29s.xml">
-      <configuration name="AcronymTest.apostrophes" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="AcronymTest - 2020.02.22 at 20h 47m 27s.xml">
+    <history-entry file="AcronymTest - 2020.02.22 at 22h 24m 37s.xml">
       <configuration name="AcronymTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="AcronymTest - 2020.02.22 at 21h 57m 24s.xml">
+    <history-entry file="AcronymTest - 2020.02.22 at 22h 26m 04s.xml">
       <configuration name="AcronymTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="AcronymTest - 2020.02.22 at 21h 58m 50s.xml">
-      <configuration name="AcronymTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="PangramCheckerTest_emptySentenceIsNotPangram - 2020.02.22 at 23h 10m 13s.xml">
+      <configuration name="PangramCheckerTest.emptySentenceIsNotPangram" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="AcronymTest - 2020.02.22 at 22h 14m 29s.xml">
-      <configuration name="AcronymTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="PangramCheckerTest_perfectLowerCasePhraseIsPangram - 2020.02.22 at 23h 10m 34s.xml">
+      <configuration name="PangramCheckerTest.perfectLowerCasePhraseIsPangram" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="PangramCheckerTest - 2020.02.23 at 11h 01m 57s.xml">
+      <configuration name="PangramCheckerTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="PangramCheckerTest - 2020.02.23 at 11h 03m 14s.xml">
+      <configuration name="PangramCheckerTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="PangramCheckerTest - 2020.02.23 at 11h 04m 08s.xml">
+      <configuration name="PangramCheckerTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26606685" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2692802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -377,12 +403,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32974428" />
@@ -616,28 +642,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ScrabbleScoreTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ScrabbleScore.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hamming.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ResistorColor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Scrabble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -658,9 +666,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Acronym.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AcronymTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1079">
+        <state relative-caret-position="1122">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -668,10 +683,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Acronym.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hamming.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="255">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Scrabble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PangramCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PangramChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
