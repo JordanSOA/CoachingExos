@@ -2,18 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7160566-2fa5-4efc-9540-ffb028d58208" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/PangramCheckerTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ProteinTranslator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ProteinTranslator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exercices-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ProteinTranslatorTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-PangramCheckerTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ProteinTranslatorTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PangramCheckerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PangramCheckerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -77,36 +89,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProteinTranslator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NaturalNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+            <state relative-caret-position="153">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/NaturalNumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="80" column="6" selection-start-line="80" selection-start-column="6" selection-end-line="93" selection-end-column="7" />
               <folding>
-                <element signature="e#160#182#0" expanded="true" />
-                <element signature="e#311#319#0" expanded="true" />
-                <element signature="e#414#422#0" expanded="true" />
-                <element signature="e#540#548#0" expanded="true" />
-                <element signature="e#664#672#0" expanded="true" />
-                <element signature="e#843#851#0" expanded="true" />
-                <element signature="e#964#972#0" expanded="true" />
-                <element signature="e#1083#1091#0" expanded="true" />
-                <element signature="e#1178#1186#0" expanded="true" />
-                <element signature="e#1677#1685#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ProteinTranslatorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PangramCheckerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2159">
-              <caret line="130" selection-start-line="130" selection-end-line="130" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -156,6 +163,10 @@
         <option value="$PROJECT_DIR$/src/main/java/ResistorColor.java" />
         <option value="$PROJECT_DIR$/src/test/java/ProteinTranslatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProteinTranslator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Meetup.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MeetupTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NaturalNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NaturalNumber.java" />
       </list>
     </option>
   </component>
@@ -172,6 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,18 +226,23 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last.edited.regexp" value="jo's" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
@@ -248,27 +265,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.ProteinTranslatorTest">
-    <configuration name="PangramChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PangramChecker" />
+  <component name="RunManager" selected="Gradle.NaturalNumberTest">
+    <configuration name="NaturalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NaturalNumber" />
       <module name="exercices.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProteinTranslator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProteinTranslator" />
-      <module name="exercices.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PangramCheckerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CoachingExos [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;PangramCheckerTest&quot;" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CoachingExos [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="NaturalNumberTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;NaturalNumberTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -283,32 +331,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ProteinTranslatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="NaturalNumberTest.testThatNonNegativeIntegerIsRejected" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;ProteinTranslatorTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="ProteinTranslatorTest.testTranslationStopsIfStopCodonAtBeginning" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;ProteinTranslatorTest.testTranslationStopsIfStopCodonAtBeginning&quot;" />
+        <option name="scriptParameters" value="--tests &quot;NaturalNumberTest.testThatNonNegativeIntegerIsRejected&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -325,11 +353,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ProteinTranslatorTest" />
-        <item itemvalue="Gradle.ProteinTranslatorTest.testTranslationStopsIfStopCodonAtBeginning" />
-        <item itemvalue="Application.ProteinTranslator" />
-        <item itemvalue="Gradle.PangramCheckerTest" />
-        <item itemvalue="Application.PangramChecker" />
+        <item itemvalue="Gradle.NaturalNumberTest" />
+        <item itemvalue="Gradle.NaturalNumberTest.testThatNonNegativeIntegerIsRejected" />
+        <item itemvalue="Gradle.CoachingExos [clean]" />
+        <item itemvalue="Gradle.CoachingExos [build]" />
+        <item itemvalue="Application.NaturalNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -347,42 +375,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 11h 18m 43s.xml">
-      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="NaturalNumberTest - 2020.03.07 at 19h 52m 01s.xml">
+      <configuration name="NaturalNumberTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 11h 19m 21s.xml">
-      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="NaturalNumberTest - 2020.03.07 at 20h 29m 03s.xml">
+      <configuration name="NaturalNumberTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 17h 29m 04s.xml">
-      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="NaturalNumberTest - 2020.03.07 at 20h 29m 19s.xml">
+      <configuration name="NaturalNumberTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 17h 30m 09s.xml">
-      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="NaturalNumberTest_testThatNonNegativeIntegerIsRejected - 2020.03.07 at 20h 29m 49s.xml">
+      <configuration name="NaturalNumberTest.testThatNonNegativeIntegerIsRejected" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 17h 36m 05s.xml">
-      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="NaturalNumberTest_testThatNonNegativeIntegerIsRejected - 2020.03.07 at 20h 32m 05s.xml">
+      <configuration name="NaturalNumberTest.testThatNonNegativeIntegerIsRejected" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ProteinTranslatorTest_testTranslationStopsIfStopCodonAtBeginning - 2020.02.23 at 17h 38m 11s.xml">
-      <configuration name="ProteinTranslatorTest.testTranslationStopsIfStopCodonAtBeginning" configurationId="GradleRunConfiguration" />
+    <history-entry file="NaturalNumberTest_testThatNonNegativeIntegerIsRejected - 2020.03.07 at 20h 33m 07s.xml">
+      <configuration name="NaturalNumberTest.testThatNonNegativeIntegerIsRejected" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 18h 30m 11s.xml">
-      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="NaturalNumberTest - 2020.03.07 at 20h 43m 09s.xml">
+      <configuration name="NaturalNumberTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 18h 31m 18s.xml">
-      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="NaturalNumberTest_testThatNonNegativeIntegerIsRejected - 2020.03.07 at 20h 45m 38s.xml">
+      <configuration name="NaturalNumberTest.testThatNonNegativeIntegerIsRejected" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 18h 50m 27s.xml">
-      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="NaturalNumberTest - 2020.03.07 at 20h 45m 48s.xml">
+      <configuration name="NaturalNumberTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ProteinTranslatorTest - 2020.02.23 at 18h 51m 33s.xml">
-      <configuration name="ProteinTranslatorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="NaturalNumberTest - 2020.03.07 at 20h 48m 11s.xml">
+      <configuration name="NaturalNumberTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2692802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27570695" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -400,6 +428,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32974428" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -441,22 +470,6 @@
     </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ProteinTranslator.java</url>
-          <line>79</line>
-          <properties />
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ProteinTranslator.java</url>
-          <line>46</line>
-          <properties />
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Remote">
         <watch expression="res" />
@@ -641,30 +654,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PangramCheckerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/AbstractCollection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="464" selection-start-line="464" selection-end-line="464" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3041" selection-start-line="3041" selection-end-line="3041" />
-          <folding>
-            <element signature="e#121653#121654#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,42 +746,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProteinTranslatorTest.java">
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2159">
-          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        <state relative-caret-position="157">
+          <caret line="132" column="19" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#121591#121592#0" expanded="true" />
+            <element signature="e#121653#121654#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProteinTranslator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+        <state relative-caret-position="416">
+          <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProteinTranslatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
           <folding>
-            <element signature="e#160#182#0" expanded="true" />
-            <element signature="e#311#319#0" expanded="true" />
-            <element signature="e#414#422#0" expanded="true" />
-            <element signature="e#540#548#0" expanded="true" />
-            <element signature="e#664#672#0" expanded="true" />
-            <element signature="e#843#851#0" expanded="true" />
-            <element signature="e#964#972#0" expanded="true" />
-            <element signature="e#1083#1091#0" expanded="true" />
-            <element signature="e#1178#1186#0" expanded="true" />
-            <element signature="e#1677#1685#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Meetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MeetupTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="168" column="5" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PangramCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NaturalNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="80" column="6" selection-start-line="80" selection-start-column="6" selection-end-line="93" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NaturalNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="gradleExecuteTaskHistory">
     <option value="$PROJECT_DIR$" />
-    <option value="build" />
     <option value="clean" />
+    <option value="build" />
   </component>
   <component name="masterDetails">
     <states>
